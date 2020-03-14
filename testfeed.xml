@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:a10="http://www.w3.org/2005/Atom"
+  version="2.0">
+  <channel xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <title>Azure service updates</title>
+    <link>https://azure.microsoft.com/en-us/updates/</link>
+    <description>Azure service updates</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Mar 2020 23:57:38 Z</lastBuildDate>
+    <atom:link
+      href="https://azure.microsoft.com/updates/feed/"
+      rel="self"
+      type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">azure-cognitive-services-adds-brazilian-portuguese-to-neural-text-to-speech</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-cognitive-services-adds-brazilian-portuguese-to-neural-text-to-speech/</link>
+      <title>Azure Cognitive Services—Brazilian Portuguese added to neural Text to Speech</title>
+      <description>Francisca, our new Brazilian Portuguese (pt-BR) voice, has been added to neural Text to Speech. Francisca features the same human-like natural prosody of the other neural Text to Speech voices on Azure. </description>
+      <pubDate>Fri, 13 Mar 2020 23:00:01 Z</pubDate>
+      <atom:content
+        type="text">Francisca, our new Brazilian Portuguese (pt-BR) voice, has been added to neural Text to Speech. Francisca features the same human-like natural prosody of the other neural Text to Speech voices on Azure. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">announcing-general-availability-python-3-8-support</guid>
+      <link>https://azure.microsoft.com/en-us/updates/announcing-general-availability-python-3-8-support/</link>
+      <category>Python</category>
+      <category>Machine Learning</category>
+      <title>Azure Functions—Python 3.8 support is now generally available</title>
+      <description>Azure Functions support for Python 3.8 is now generally available. This enables developing, debugging, and deploying Function Apps for production scenarios using the tools of your choice, specifically Visual Studio Code, the Azure portal, Azure Functions Core Tools and Azure CLI.</description>
+      <pubDate>Fri, 13 Mar 2020 19:00:00 Z</pubDate>
+      <atom:content
+        type="text">Azure Functions support for Python 3.8 is now generally available. This enables developing, debugging, and deploying Function Apps for production scenarios using the tools of your choice, specifically Visual Studio Code, the Azure portal, Azure Functions Core Tools and Azure CLI.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">private-endpoints-for-azure-storage</guid>
+      <link>https://azure.microsoft.com/en-us/updates/private-endpoints-for-azure-storage/</link>
+      <category>Azure Storage</category>
+      <category>Privte Endpoints</category>
+      <title>Private Endpoints for Azure Storage are now Generally Available</title>
+      <description>Private Endpoints provide secure connectivity to Azure Storage from a Azure virtual network (VNet). On-premises networks can also securely connect to a storage account using a private endpoint when that network is to a VNet using Express Route or VPN. Private Endpoints for Azure Storage are now generally available in all Azure public regions.</description>
+      <pubDate>Fri, 13 Mar 2020 18:00:48 Z</pubDate>
+      <atom:content
+        type="text">Private Endpoints provide secure connectivity to Azure Storage from a Azure virtual network (VNet). On-premises networks can also securely connect to a storage account using a private endpoint when that network is to a VNet using Express Route or VPN. Private Endpoints for Azure Storage are now generally available in all Azure public regions.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">event-grid-premium-tier-is-now-in-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/event-grid-premium-tier-is-now-in-preview/</link>
+      <title>Event Grid Premium tier is now in preview</title>
+      <description>Event Grid Premium tier is aimed at solving the specific requirements of customers with advanced security, throughput, availability, and performance guarantees typical of large enterprises operating large scale business critical software</description>
+      <pubDate>Fri, 13 Mar 2020 17:10:47 Z</pubDate>
+      <atom:content
+        type="text">Event Grid Premium tier is aimed at solving the specific requirements of customers with advanced security, throughput, availability, and performance guarantees typical of large enterprises operating large scale business critical software</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-service-fabric-70-fourth-refresh-release</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-service-fabric-70-fourth-refresh-release/</link>
+      <category>servicefabric</category>
+      <title>Azure Service Fabric 7.0 fourth refresh release is now rolling out</title>
+      <description>Azure Service Fabric 7.0 fourth refresh release, which includes bug fixes and performance enhancements for standalone and Azure environments, has started rolling out to various Azure regions. </description>
+      <pubDate>Fri, 13 Mar 2020 17:00:47 Z</pubDate>
+      <atom:content
+        type="text">Azure Service Fabric 7.0 fourth refresh release, which includes bug fixes and performance enhancements for standalone and Azure environments, has started rolling out to various Azure regions. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">acr-builtin-audit-policies-for-azure-policy-is-now-in-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/acr-builtin-audit-policies-for-azure-policy-is-now-in-preview/</link>
+      <title>ACR built-in audit policies for Azure Policy is now in preview</title>
+      <description>Azure Container Registry now supports built-in audit policies for Azure Policy</description>
+      <pubDate>Fri, 13 Mar 2020 16:00:51 Z</pubDate>
+      <atom:content
+        type="text">Azure Container Registry now supports built-in audit policies for Azure Policy</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">managed-keys-for-azure-container-registry-is-now-in-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/managed-keys-for-azure-container-registry-is-now-in-preview/</link>
+      <title>Managed keys for Azure Container Registry is now in preview</title>
+      <description>Bring your own encryption key for Azure Container Registry.</description>
+      <pubDate>Fri, 13 Mar 2020 16:00:47 Z</pubDate>
+      <atom:content
+        type="text">Bring your own encryption key for Azure Container Registry.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-monitor-application-insights-now-supports-python</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-monitor-application-insights-now-supports-python/</link>
+      <category>Azure Monitor</category>
+      <category>Application Insights</category>
+      <title>Azure Monitor Application Insights now supports Python </title>
+      <description>Azure Monitor now supports distributed tracing, metric collection, and logging of Python applications through integration with OpenCensus.</description>
+      <pubDate>Thu, 12 Mar 2020 22:00:39 Z</pubDate>
+      <atom:content
+        type="text">Azure Monitor now supports distributed tracing, metric collection, and logging of Python applications through integration with OpenCensus.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-sql-database-default-configuration-changing</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-sql-database-default-configuration-changing/</link>
+      <category>AzurePortal</category>
+      <title>Azure SQL Database default configurations are changing</title>
+      <description>Azure SQL Database now has the latest Gen 5 hardware in place to ensure optimal service performance. As a result, the default database configurations and the default elastic pool configurations are being changed for all new Azure SQL databases. </description>
+      <pubDate>Thu, 12 Mar 2020 20:00:38 Z</pubDate>
+      <atom:content
+        type="text">Azure SQL Database now has the latest Gen 5 hardware in place to ensure optimal service performance. As a result, the default database configurations and the default elastic pool configurations are being changed for all new Azure SQL databases. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">virtual-network-nat-now-generally-available</guid>
+      <link>https://azure.microsoft.com/en-us/updates/virtual-network-nat-now-generally-available/</link>
+      <title>Virtual Network NAT now generally available</title>
+      <description>Azure Virtual Network NAT (network address translation) simplifies outbound-only Internet connectivity for virtual networks. NAT can be configured for one or more subnets of a virtual network and provides on-demand connectivity for virtual machines.</description>
+      <pubDate>Thu, 12 Mar 2020 18:21:39 Z</pubDate>
+      <atom:content
+        type="text">Azure Virtual Network NAT (network address translation) simplifies outbound-only Internet connectivity for virtual networks. NAT can be configured for one or more subnets of a virtual network and provides on-demand connectivity for virtual machines.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-dns-private-zones-preview-api-is-being-depricated</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-dns-private-zones-preview-api-is-being-depricated/</link>
+      <title>Azure DNS private zones preview API is being deprecated</title>
+      <description>During public preview release, private DNS zones were created using dnszones  ARM resource with zoneType property set to Private. The GA resource model makes use of privateDnsZones resource type instead of dnszones. Support for zones created using the preview API will be completely removed on June 30, 2020 and you must immediately migrate these private DNS zones to the latest resource model. 
+</description>
+      <pubDate>Thu, 12 Mar 2020 17:00:36 Z</pubDate>
+      <atom:content
+        type="text">During public preview release, private DNS zones were created using dnszones  ARM resource with zoneType property set to Private. The GA resource model makes use of privateDnsZones resource type instead of dnszones. Support for zones created using the preview API will be completely removed on June 30, 2020 and you must immediately migrate these private DNS zones to the latest resource model. 
+</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">deprecation-of-two-recommendations-for-web-applications</guid>
+      <link>https://azure.microsoft.com/en-us/updates/deprecation-of-two-recommendations-for-web-applications/</link>
+      <title>Deprecation of two security recommendations for web applications  </title>
+      <description>Two security recommendations related to web applications are being deprecated.</description>
+      <pubDate>Thu, 12 Mar 2020 16:00:36 Z</pubDate>
+      <atom:content
+        type="text">Two security recommendations related to web applications are being deprecated.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-stream-analytics-managed-identity-authentication-to-power-bi-is-now-available</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-stream-analytics-managed-identity-authentication-to-power-bi-is-now-available/</link>
+      <title>Azure Stream Analytics managed identity authentication to Power BI is now available</title>
+      <description>Managed identity authentication for output to Power BI is now generally available in Azure Stream Analytics. </description>
+      <pubDate>Thu, 12 Mar 2020 16:00:35 Z</pubDate>
+      <atom:content
+        type="text">Managed identity authentication for output to Power BI is now generally available in Azure Stream Analytics. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-monitor-source-map-integration-with-azure-blob-storage-enables-faster-debugging</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-monitor-source-map-integration-with-azure-blob-storage-enables-faster-debugging/</link>
+      <title>Azure Monitor Source Map Integration with Azure Blob Storage Enables Faster Debugging</title>
+      <description>Unminify JavaScript with One Click</description>
+      <pubDate>Wed, 11 Mar 2020 23:00:27 Z</pubDate>
+      <atom:content
+        type="text">Unminify JavaScript with One Click</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">application-insights-available-in-usgov-arizona</guid>
+      <link>https://azure.microsoft.com/en-us/updates/application-insights-available-in-usgov-arizona/</link>
+      <category>Azure Monitor</category>
+      <title>Azure Application Insights now available in US Gov Arizona</title>
+      <description>Azure Monitor Application Insights is now generally available in the US Government Arizona region. Additionally, the Application Insights web availability monitoring capability is now available in the Azure Government Cloud regions.</description>
+      <pubDate>Wed, 11 Mar 2020 23:00:26 Z</pubDate>
+      <atom:content
+        type="text">Azure Monitor Application Insights is now generally available in the US Government Arizona region. Additionally, the Application Insights web availability monitoring capability is now available in the Azure Government Cloud regions.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-sphere-2003-update-now-available-for-evaluation</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-sphere-2003-update-now-available-for-evaluation/</link>
+      <title>Azure Sphere 20.03 update now available for compatibility testing</title>
+      <description>The Azure Sphere 20.03 release is now available via the retail evaluation feed, which is meant for backwards compatibility testing. Use it to verify production-signed applications against the new release before it's deployed broadly via the retail feed. </description>
+      <pubDate>Wed, 11 Mar 2020 22:00:26 Z</pubDate>
+      <atom:content
+        type="text">The Azure Sphere 20.03 release is now available via the retail evaluation feed, which is meant for backwards compatibility testing. Use it to verify production-signed applications against the new release before it's deployed broadly via the retail feed. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-automation-available-in-us-gov-arizona-region</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-automation-available-in-us-gov-arizona-region/</link>
+      <title>Azure Automation is now available in the US Gov Arizona region in preview</title>
+      <description>Azure Automation is now available in the US Gov Arizona region in preview.</description>
+      <pubDate>Wed, 11 Mar 2020 16:00:00 Z</pubDate>
+      <atom:content
+        type="text">Azure Automation is now available in the US Gov Arizona region in preview.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">improved-justintime-experience</guid>
+      <link>https://azure.microsoft.com/en-us/updates/improved-justintime-experience/</link>
+      <title>Azure Security Center—Improved just-in-time experience</title>
+      <description>The features, operation, and UI for Azure Security Center’s just-in-time tools that secure your management ports have been enhanced.</description>
+      <pubDate>Wed, 11 Mar 2020 00:00:05 Z</pubDate>
+      <atom:content
+        type="text">The features, operation, and UI for Azure Security Center’s just-in-time tools that secure your management ports have been enhanced.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">power-bi-support-for-transportlayer-security</guid>
+      <link>https://azure.microsoft.com/en-us/updates/power-bi-support-for-transportlayer-security/</link>
+      <title>Upgrade the TLS version of your Power BI application to TLS 1.2</title>
+      <description>Support for transport layer security (TLS) 1.0 and 1.1 for Power BI will end in June 2020. Upgrade the TLS version of your Power BI application to TLS 1.2 before then. </description>
+      <pubDate>Tue, 10 Mar 2020 18:00:11 Z</pubDate>
+      <atom:content
+        type="text">Support for transport layer security (TLS) 1.0 and 1.1 for Power BI will end in June 2020. Upgrade the TLS version of your Power BI application to TLS 1.2 before then. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-sql-managed-instance-enforces-tls-12-on-outbound-connections</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-sql-managed-instance-enforces-tls-12-on-outbound-connections/</link>
+      <category>AzurePortal</category>
+      <title>Azure SQL Database managed instance now enforces TLS 1.2 on outbound connections</title>
+      <description>In January 2020 Microsoft enforced TLS 1.2 for intra-service traffic in all Azure services. For Azure SQL Database managed instance, this resulted in TLS 1.2 being enforced on outbound connections used for replication and linked server connections to SQL Server.</description>
+      <pubDate>Tue, 10 Mar 2020 01:00:20 Z</pubDate>
+      <atom:content
+        type="text">In January 2020 Microsoft enforced TLS 1.2 for intra-service traffic in all Azure services. For Azure SQL Database managed instance, this resulted in TLS 1.2 being enforced on outbound connections used for replication and linked server connections to SQL Server.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+  </channel>
+</rss>
